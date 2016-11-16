@@ -1,0 +1,15 @@
+md5 is a type of checksum. The python library haslib includes md5 and sha1  
+hashlib rsources:  
+http://pythoncentral.io/hashing-strings-with-python/  this is a brief overview of what are checksums and the hashlib 
+https://docs.python.org/3/library/hashlib.html       this is the hashblib documentation inforamtion
+https://pymotw.com/2/hashlib/         this shows some sample data and code
+
+https://codeghar.wordpress.com/2011/05/20/python-script-to-calculate-checksum-of-file/           this shows some calculatio script example
+
+hmac is a verification algorithm for hashli
+https://pymotw.com/2/hmac/index.html       this is information on authentication & verification
+https://docs.python.org/3/library/hmac.html      this is the hmac documentation information
+   
+   Note: the information I read shows that md5 and sha1 take about the same amount of time from a speed perspective  
+   there are comments about md5 being "broken" all over the place online and notes to the effect of don't use, use sha1 instead  
+   
